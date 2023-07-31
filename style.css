@@ -1,0 +1,12 @@
+body{background-color: aqua;}
+img{width: 90%;
+height: 60%;}
+
+.container{display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
